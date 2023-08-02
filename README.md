@@ -10,7 +10,7 @@ In this project, you can do the following:
 * Can know the Temperature of different places.
 * Alerts of each Action.
 ## Features
-* User Management: User can view different climatic parameters like
+* User can view different climatic parameters like
 * Teperature
 * Humidity
 * pressure
