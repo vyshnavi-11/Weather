@@ -1,4 +1,4 @@
-# Full Stack Weather App Project using React-Js
+#  Weather App Project using React-Js
 ## A Simple **Weather Application** used to find the climatic conditions of different places.
 * The user just need to give the place name that he wish to know the temperature and live results are out.
 ##Table of contents
